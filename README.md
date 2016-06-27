@@ -14,3 +14,11 @@ If used for published research work, please cite:
 > Ferecatu, "Benchmarking classification of Earth-observation data: 
 > from learning explicit features to convolutional networks", Proc. of
 > IGARSS 2015.
+
+Sample source (provided for testing scripts):
+Orthoimage sample from:
+http://www.grss-ieee.org/community/technical-committees/data-fusion/2015-ieee-grss-data-fusion-contest/
+
+Hyperspectral sample (Salinas A scene) from:
+http://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes
+
