@@ -1,6 +1,6 @@
-# gtgen
+# gtgen / gthyp
 
-MATLAB scripts to generate ground-truth masks for images.
+MATLAB scripts to generate ground-truth masks for images (3-channel and hyperspectral)
 
 Copyright (C) <2015-2016> Bertrand Le Saux & Adrien Lagrange
 
