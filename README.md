@@ -3,6 +3,7 @@
 MATLAB scripts to generate ground-truth masks for images.
 
 Copyright (C) <2015-2016> Bertrand Le Saux & Adrien Lagrange
+
 Comments to: bertrand.le_saux@onera.fr
 
 http://www.onera.fr/en/staff/bertrand-le-saux
